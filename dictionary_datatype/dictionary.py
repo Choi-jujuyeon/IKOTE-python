@@ -3,8 +3,15 @@ data = dict()
 data['사과'] = 'Apple'
 data['바나나'] = 'Banana'
 data['코코넛'] = 'Coconut'
-
 print(data)
+
+b={
+  '홍길동': 97,
+  '이순신': 98,
+  '김샛별': 98
+}
+print(b)
+print(b['김샛별'])
 print("-------------------------\n")
 
 # 키 값이 있는지 체크하기 
