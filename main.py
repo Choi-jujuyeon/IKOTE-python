@@ -5,4 +5,5 @@
 # from list_datatype import list
 # from list_datatype import indexing
 # from list_datatype import slicing
-from list_datatype import comprehension
+# from list_datatype import comprehension
+from list_datatype import etc_method
