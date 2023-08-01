@@ -3,4 +3,4 @@ venv
 .upm
 .replit
 replit.nix
-../__pycache__
+../__pycache__/*
