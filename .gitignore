@@ -4,3 +4,4 @@ venv
 .replit
 replit.nix
 number_datatype/__pycache__
+list_datatype/__pycache__
