@@ -6,4 +6,6 @@
 # from list_datatype import indexing
 # from list_datatype import slicing
 # from list_datatype import comprehension
-from list_datatype import etc_method
+# from list_datatype import etc_method
+# from string_datatype import string
+from string_datatype import stringOperation
