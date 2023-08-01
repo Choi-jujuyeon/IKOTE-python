@@ -3,4 +3,4 @@ venv
 .upm
 .replit
 replit.nix
-../__pycache__/*
+number_datatype/__pycache__
