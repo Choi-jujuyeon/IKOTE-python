@@ -9,4 +9,6 @@
 # from list_datatype import etc_method
 # from string_datatype import string
 # from string_datatype import stringOperation
-from tupple_datatype import tupple
+# from tupple_datatype import tupple
+from dictionary_datatype import dictionary
+
