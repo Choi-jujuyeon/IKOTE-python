@@ -13,4 +13,5 @@
 # from dictionary_datatype import dictionary
 # from set_datatype import set
 # from inputoutput import inout
-from inputoutput import varstring
+# from inputoutput import varstring
+from ifelifelse import score
