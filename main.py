@@ -14,5 +14,5 @@
 # from set_datatype import set
 # from inputoutput import inout
 # from inputoutput import varstring
-# from ifelifelse import score
-from ifelifelse import andor
+from ifelifelse import score
+# from ifelifelse import andor

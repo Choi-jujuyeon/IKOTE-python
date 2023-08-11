@@ -7,7 +7,8 @@ if 70<= score < 80:
           print("우수한 성적입니다~!~")
       
 elif score >=80:
-    print("성적이 80점 이상입니다~!~")
+  pass
+    # print("성적이 80점 이상입니다~!~")
 else :
     print("분발하세요~^^")
 
