@@ -17,4 +17,5 @@
 # from ifelifelse import score
 # from ifelifelse import andor
 # from ifelifelse import conditionalExpress
-from WhileFor import oddNum
+# from WhileFor import oddNum
+from WhileFor import num
