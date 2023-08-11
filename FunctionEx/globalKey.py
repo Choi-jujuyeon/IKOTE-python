@@ -1,9 +1,7 @@
-a = 10
-
+# 값을 변경하는 것이 아니면 global 키워드 필요 없음.
+a=10
 
 def func():
-  global a
-  a += 1
   print(a)
 
 func()
