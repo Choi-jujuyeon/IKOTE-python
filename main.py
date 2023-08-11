@@ -22,4 +22,5 @@
 # from WhileFor import whileBreak
 # from WhileFor import ex1_for
 # from WhileFor import ex2_for
-from FunctionEx import addFunc
+# from FunctionEx import addFunc
+from FunctionEx import globalKey
