@@ -18,4 +18,4 @@
 # from ifelifelse import andor
 # from ifelifelse import conditionalExpress
 # from WhileFor import oddNum
-from WhileFor import num
+from WhileFor import forContinue
