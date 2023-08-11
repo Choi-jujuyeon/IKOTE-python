@@ -1,9 +1,11 @@
-# 값을 변경하는 것이 아니면 global 키워드 필요 없음.
-a = 10
-
+array = [1, 2, 3, 4, 5]
 
 def func():
-  print(a + 20)
+
+    # 전역변수와 지역변수가 동일한 이름으로 존재한다면, 내부적으로는 전역변수가 우선시 된다!
+    array = [3, 4, 5]
+    array.append(6)
+    print(array)
 
 
 func()
